@@ -1,5 +1,5 @@
 # ESP32-64x64-LED-Matrix-Perlin-Noise
-Implementation of Perlin noise on a 64x64 LED matrix using an ESP32 microcontroller to generate a natural-looking terrain map
+Perlin noise on a 64x64 LED matrix using an ESP32 microcontroller to generate a natural-looking terrain map
 
 <p align="center">
   <img src="https://github.com/bradleeharr/Perlin-Noise-LED-Matrix/blob/main/20231121_183643.gif?raw=true"/>
